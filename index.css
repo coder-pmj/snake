@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html,body{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#app{
+    font-size: 0;
+    background-color: whitesmoke;
+}
+.gird{
+    /* border:1px solid; */
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+}
